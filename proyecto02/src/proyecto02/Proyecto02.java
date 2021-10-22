@@ -2,24 +2,19 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package proyecto01;
+package proyecto02;
 
 /**
  *
  * @author Usuario
  */
-public class Proyecto01 {
+public class Proyecto02 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Generando un mini programa en java");
-        System.out.println("Usando Netbeans");
-        System.out.println("Junto");
-        System.out.println("Git y Github");
-
     }
     
 }
